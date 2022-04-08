@@ -1,0 +1,9 @@
+---
+title: "Text Analytics"
+author: "Ivan Ricardo"
+output: pdf_document
+---
+
+
+## Intro to Text Analytics
+I may try putting some code into python because the text analytics stuff is written in jupyter
